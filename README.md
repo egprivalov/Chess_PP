@@ -13,7 +13,7 @@ ____
 ____
 # Тест
 ![image](https://user-images.githubusercontent.com/44251572/145725789-a1f14b63-402f-4602-be54-1312753d08cf.png)
-# Лог Файл
+# Лог Файл (LogFile1.log)
 ![image](https://user-images.githubusercontent.com/44251572/145725859-46b747ed-5c89-44e8-96b3-c0c26c338ded.png)
 ____
 Программа написана на языке Python 3.8, с использованием среды разработки PyCharm
