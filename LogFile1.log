@@ -1,0 +1,23 @@
+ERROR:root:Некорректный ввод! Input: (0, 0)
+Traceback (most recent call last):
+  File "C:/Users/antons/PycharmProjects/Programms/Chess.py", line 7, in xycheck
+    x, y = map(int, input("Введите координаты фигуры: ").split())
+ValueError: invalid literal for int() with base 10: 'as'
+ERROR:root:Число выпадает из промежутка 1-8! Input: (10, 2)
+NoneType: None
+ERROR:root:Некорректный ввод! Input: (0, 0)
+Traceback (most recent call last):
+  File "C:/Users/antons/PycharmProjects/Programms/Chess.py", line 7, in xycheck
+    x, y = map(int, input("Введите координаты фигуры: ").split())
+ValueError: invalid literal for int() with base 10: 'as'
+ERROR:root:Число выпадает из промежутка 1-8! Input: (10, 10)
+NoneType: None
+INFO:root:Good input: (2, 2)
+INFO:root:Good input: (5, 7)
+ERROR:root:Некорректный ввод! Input: a
+Traceback (most recent call last):
+  File "C:/Users/antons/PycharmProjects/Programms/Chess.py", line 130, in main
+    n=int(n)
+ValueError: invalid literal for int() with base 10: 'a'
+ERROR:root:Число выпадает из промежутка 1-4! Input: 0
+NoneType: None
